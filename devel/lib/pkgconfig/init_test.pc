@@ -1,0 +1,8 @@
+prefix=/home/dev/catkin_ws/devel
+
+Name: init_test
+Description: Description of init_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
